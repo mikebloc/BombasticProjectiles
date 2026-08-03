@@ -6,7 +6,7 @@ Drop a ⭐ to support and stay up to date!
 - Download [here!](https://modrinth.com/plugin/bombasticprojectiles)
 
 ## Support
-Currently updated for 26.1.2!
+Currently updated for 26.2.
 
 ## Features
 
