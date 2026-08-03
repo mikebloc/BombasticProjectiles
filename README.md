@@ -8,6 +8,9 @@ Drop a ⭐ to support and stay up to date!
 ## Support
 Currently updated for 26.2.
 
+# Contributing
+Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
+
 ## Features
 
 > - Freemode Toggle to get straight to explosive fun!
