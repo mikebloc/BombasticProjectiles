@@ -5,14 +5,10 @@ Drop a ⭐ to support and stay up to date!
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/bombasticprojectiles)
 
-## Support
-Currently updated for 26.2.
-
 ## Contributing
 Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
 
 ## Features
-
 > - Freemode Toggle to get straight to explosive fun!
 > - Permissions to safely limit ranks/players.
 > - Protect certain blocks/items/mobs.
