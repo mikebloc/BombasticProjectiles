@@ -10,8 +10,7 @@ Drop a ⭐ to support and stay up to date!
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/bombasticprojectiles)
 
-## Contributing
-Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
+## Contributing? Check [here.](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md)
 
 ## Features
 > - Freemode Toggle to get straight to explosive fun!
