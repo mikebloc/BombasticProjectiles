@@ -96,10 +96,8 @@ MobImpactDamage: 2
 Egg: false
 Arrow: true
 Potion: false
-Trident: false
 Snowball: false
 ExpBottle: false
-WindCharge: false
 Enderpearl: false
 FishingBobber: false
 
@@ -112,10 +110,8 @@ FishingBobber: false
 Egg-Impact: 2
 Arrow-Impact: 5
 Potion-Impact: 3
-Trident-Impact: 10
 Snowball-Impact: 2
 ExpBottle-Impact: 3
-WindCharge-Impact: 0
 Enderpearl-Impact: 0
 FishingBobber-Impact: 3
 
