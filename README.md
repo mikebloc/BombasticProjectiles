@@ -1,10 +1,6 @@
 # 1.16.5 BRANCH
 ## If you are looking for the latest MC version, please to return to the main branch.
 
-## 1.16.5 Notice
-If you are reading this, 1.16.5 version has not been uploaded yet.
-- Check below. Some features may be limited or missing from the main branch.
-
 Drop a ⭐ to support and stay up to date!
 
 - Consider [donating!](https://ko-fi.com/cutzuu)
