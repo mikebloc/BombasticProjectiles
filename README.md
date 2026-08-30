@@ -3,10 +3,10 @@
 
 Drop a ⭐ to support and stay up to date!
 
-- Consider [donating!](https://ko-fi.com/cutzuu)
+- Consider [donating!](https://ko-fi.com/mikebloc)
 - Download [here!](https://modrinth.com/plugin/bombasticprojectiles)
 
-## Contributing? Check [here.](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md)
+## Contributing? Check [here.](https://github.com/mikebloc/.github/blob/main/documentation/contributing.md)
 
 ## Features
 > - Freemode Toggle to get straight to explosive fun!
