@@ -22,4 +22,4 @@ Drop a ⭐ to support and stay up to date!
 > - Configure individual projectile explosives.
 > - Arrows / Eggs / EnderPearls / ExpBottles / FishingBobber / Potions / Snowballs / Tridents supported.
 
-[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation)
+[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation/legal.md)
